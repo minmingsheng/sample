@@ -4,91 +4,91 @@
             "id": 1,
             "name": "Toothpaste Strawberry Mint",
             "description": "Our Kids Toothpaste delivers delightful, fruity freshness that kids love! Our fluoride-free formula helps brighten teeth, promote healthy teeth and gums, and fight tartar buildup.",
-            "image": "../path/to/img_toothpaste.png",
+            "image": "path/to/img_toothpaste.png",
             "tag": "All Ages",
             "brand": "The Honest Company",
-            "logo" : "../path/to/img_logo.png"
+            "logo" : "path/to/img_logo.png"
         },
         {
             "id": 6,
             "name": "Baby Lotion",
             "description": "Then we'll go with that data file! Can we have Bender Burgers again? Soothe us with sweet lies. What's with you kids? Every other day it's food, food, food. Alright, I'll get you some stupid food.",
-            "image": "../path/to/img_lotion.png",
+            "image": "path/to/img_lotion.png",
             "tag": "Toddler",
             "brand": "The Fry Company",
-            "logo" : "../path/to/img_logo.png"
+            "logo" : "path/to/img_logo.png"
         },
         {
             "id": 12,
             "name": "Lavender Hand Sanitizer Gel",
             "description": "We'll go deliver this crate like professionals, and then we'll go home. I've got to find a way to escape the horrible ravages of youth. ",
-            "image": "../path/to/img_gel.png",
+            "image": "path/to/img_gel.png",
             "tag": "Kids 4+",
             "brand": "The Bender Company",
-            "logo" : "../path/to/img_logo.png"
+            "logo" : "path/to/img_logo.png"
         },
         {
             "id": 23,
             "name": "Pear Kiwi & Apple Smoothie",
             "description": "I videotape every customer that comes in here, so that I may blackmail them later. Who are you, my warranty?! So I really am important?",
-            "image": "../path/to/img_smoothie.png",
+            "image": "path/to/img_smoothie.png",
             "tag": "New Born",
             "brand": "The Leela Company",
-            "logo" : "../path/to/img_logo.png"
+            "logo" : "path/to/img_logo.png"
         },
         {
             "id": 49,
             "name": "Disposable Nursing Bra Pads",
             "description": "Are you crazy? I can't swallow that. Have you ever tried just turning off the TV, sitting down with your children, and hitting them? Belligerent and numerous. Hey, whatcha watching?",
-            "image": "../path/to/img_pads.png",
+            "image": "path/to/img_pads.png",
             "tag": "All Ages",
             "brand": "The Zoidberg Company",
-            "logo" : "../path/to/img_logo.png"
+            "logo" : "path/to/img_logo.png"
         },
         {
             "id": 66,
             "name": "Baby Powder",
             "description": "Our love isn't any different from yours, except it's hotter, because I'm involved. Please, Don-Bot… look into your hard drive, and open your mercy file!",
-            "image": "../path/to/img_powder.png",
+            "image": "path/to/img_powder.png",
             "tag": "Toddler",
             "brand": "The Amy Company",
-            "logo" : "../path/to/img_logo.png"
+            "logo" : "path/to/img_logo.png"
         },
         {
             "id": 71,
             "name": "Pacifier Bracelet",
             "description": "Oh, how awful. Did he at least die painlessly? …To shreds, you say. Well, how is his wife holding up? …To shreds, you say. ",
-            "image": "../path/to/img_bracelet.png",
+            "image": "path/to/img_bracelet.png",
             "tag": "Kids 4+",
             "brand": "The Professor Company",
-            "logo" : "../path/to/img_logo.png"
+            "logo" : "path/to/img_logo.png"
         },
         {
             "id": 80,
             "name": "Diaper Ointment",
             "description": "I love you, buddy! I could if you hadn't turned on the light and shut off my stereo. Too much work. Let's burn it and say we dumped it in the sewer.",
-            "image": "../path/to/img_spray.png",
+            "image": "path/to/img_spray.png",
             "tag": "Newborn",
             "brand": "The Hermes Company",
-            "logo" : "../path/to/img_logo.png"
+            "logo" : "path/to/img_logo.png"
         },
         {
             "id": 164,
             "name": "Baby Googles",
             "description": "It must be wonderful. What are their names? Oh sure! Blame the wizards! Man, I'm sore all over. I feel like I just went ten rounds with mighty Thor",
-            "image": "../path/to/img_goggles.png",
+            "image": "path/to/img_goggles.png",
             "tag": "Toddler",
             "brand": "The Hubert Company",
-            "logo" : "../path/to/img_logo.png"
+            "logo" : "path/to/img_logo.png"
         },
         {
             "id": 734,
             "name": "Aloe Vera Baby Wipes",
             "description": "Bender, you risked your life to save me! And remember, don't do anything that affects anything, unless it turns out you were supposed to, in which case, for the love of God, don't not do it!",
-            "image": "../path/to/img_wipes.png",
+            "image": "path/to/img_wipes.png",
             "tag": "Kids 4+",
             "brand": "The Nibbler Company",
-            "logo" : "../path/to/img_logo.png"
+            "logo" : "path/to/img_logo.png"
         }       
     ]
 }

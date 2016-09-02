@@ -8,6 +8,8 @@ function init(){
 		var products = data.products;
 		populate(products);
 	});
+	var selectBtn = document.getElementById("select-btn");
+	deacvatite(selectBtn);
 }
 
 function populate(products){
@@ -30,7 +32,7 @@ function populate(products){
 			</div>\
 			<h5>'+obj.name+'</h5>\
 			<div class = "info" >\
-				<img src="/path/to/img_info.png" />\
+				<img src="path/to/img_info.png" />\
 			</div>';
 		offer_wraper.appendChild(el);
 	})
@@ -114,11 +116,15 @@ function activeBtn(){
 	}else{
 		selectBtn.setAttribute("class", "btn");
 		selectBtn.setAttribute("href", "")
-		selectBtn.addEventListener("click", function(e){
-			e.preventDefault();
-			return
-		});
+		deacvatite(selectBtn);
 	}
+}
+
+function deacvatite(btn){
+	btn.addEventListener("click", function(e){
+		e.preventDefault();
+		return
+	});
 }
 
 function openInfo(){
