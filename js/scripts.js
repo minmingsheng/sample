@@ -109,17 +109,17 @@ function activeBtn(){
 	if(countNum()==5){
 		selectBtn.classList.add("actived");
 		selectBtn.setAttribute("href", "http://www.sampler.io");
-		selectBtn.addEventListener("click", function(){
-			console.log(location);
-			location.href = "http://www.sampler.io";
-		});
+		selectBtn.addEventListener("click", href);
 	}else{
+		selectBtn.removeEventListener("click", href,false);
 		selectBtn.setAttribute("class", "btn");
-		selectBtn.setAttribute("href", "")
 		deacvatite(selectBtn);
 	}
 }
 
+function href(){
+	location.href = "http://www.sampler.io";
+}
 function deacvatite(btn){
 	btn.addEventListener("click", function(e){
 		e.preventDefault();
